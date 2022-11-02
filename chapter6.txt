@@ -1,0 +1,7 @@
+this is chapter 6
+red
+orange
+yellow
+green
+blue
+violet
